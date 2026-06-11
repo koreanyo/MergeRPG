@@ -40,3 +40,6 @@ Desktop.ini
 
 # Packages lock (optional, remove if you want to track it)
 # Packages/packages-lock.json
+
+# Layer Lab - PSD source files (LFS object missing)
+Assets/Layer Lab/GUI Pro-MinimalGame/Theme_Light/PSD_ReadOnly/

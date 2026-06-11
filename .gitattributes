@@ -1,3 +1,2 @@
 # Auto detect text files and perform LF normalization
 * text=auto
-/Assets/Layer[[:space:]]Lab/GUI[[:space:]]Pro-MinimalGame/Theme_Light/PSD_ReadOnly/PSD_ReadOnly.unitypackage filter=lfs diff=lfs merge=lfs -text

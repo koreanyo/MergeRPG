@@ -1,0 +1,14 @@
+[
+  {
+    "stageId": "stage_01",
+    "displayName": "스테이지 1",
+    "poolConfigId": "stage_01",
+    "energyConfigId": "stage_01",
+    "waves": [
+      { "waveIndex": 0, "type": "normal", "waveClearEnergy": 3, "enemies": [{ "unitId": "DUMMY_A", "multiplier": 1.0, "count": 3 }] },
+      { "waveIndex": 1, "type": "normal", "waveClearEnergy": 3, "enemies": [{ "unitId": "DUMMY_A", "multiplier": 1.0, "count": 3 }] },
+      { "waveIndex": 2, "type": "elite",  "waveClearEnergy": 3, "enemies": [{ "unitId": "DUMMY_A", "multiplier": 1.8, "count": 1 }] },
+      { "waveIndex": 3, "type": "boss",   "waveClearEnergy": 5, "enemies": [{ "unitId": "DUMMY_A", "multiplier": 3.5, "count": 1 }] }
+    ]
+  }
+]

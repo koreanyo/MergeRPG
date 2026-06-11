@@ -1,0 +1,9 @@
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+UnicodeEncodeError: 'cp949' codec can't encode character '\u26a0' in position 0: illegal multibyte sequence
+heading_2 | 목적
+heading_2 | 1. 씬 구조
+heading_3 | 씬 간 데이터 전달 구조
+heading_3 | 런 시작 흐름
+heading_2 | 2. GameScene 화면 분할
+heading_3 | 

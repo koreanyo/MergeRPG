@@ -1,0 +1,7 @@
+[
+  {"unitId":"DUMMY_A","displayName":"더미 A","race":"Human","tier":1,"hp":100,"atk":10,"spd":25,"def":3},
+  {"unitId":"DUMMY_A","displayName":"더미 A","race":"Human","tier":2,"hp":160,"atk":18,"spd":30,"def":5},
+  {"unitId":"DUMMY_A","displayName":"더미 A","race":"Human","tier":3,"hp":250,"atk":30,"spd":40,"def":8},
+  {"unitId":"DUMMY_A","displayName":"더미 A","race":"Human","tier":4,"hp":380,"atk":48,"spd":1.8,"def":12},
+  {"unitId":"DUMMY_A","displayName":"더미 A","race":"Human","tier":5,"hp":580,"atk":75,"spd":2.0,"def":18},
+]

@@ -1,0 +1,42 @@
+# Unity generated
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
+UserSettings/
+MemoryCaptures/
+
+# Unity cache
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+
+# Unity crash reports
+sysinfo.txt
+*.stackdump
+
+# Visual Studio / Rider
+.vs/
+.idea/
+*.csproj
+*.sln
+*.suo
+*.user
+*.unityproj
+
+# OS
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Build outputs
+*.apk
+*.aab
+*.ipa
+*.exe
+*.app
+
+# Packages lock (optional, remove if you want to track it)
+# Packages/packages-lock.json
